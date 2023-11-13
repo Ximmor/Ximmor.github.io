@@ -197,6 +197,7 @@ footer{
     font-family: 'Oswald', sans-serif;
     font-size: 2.5em;
     font-weight: bold;
+    align-items: center;
 }
 
 .textwall-blanco:after {
